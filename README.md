@@ -1,5 +1,3 @@
 # Bulma For WHMCS
- 一款基于Bulma框架的WHMCS后台主题
-将以上两个文件替换到默认模板文件即可尝鲜
-不够完善！！！仅供体验 
-闲下来再更新吧
+
+A WHMCS background theme based on the Bulma framework. Replace the above two files with the default template file to try it out. Not perfect! !! !! Just for experience
